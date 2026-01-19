@@ -1,3 +1,3 @@
-Hello
+Hello 👋
 
-I am an Information Technology student with a strong interest in software development and learning new technologies. I am looking to start my career in software development and am seeking a position where I can utilize the technical skills and creativity I have developed through my studies. I aim to find a role where I can grow professionally and contribute to meaningful projects that drive innovation and technological advancement. I am ready to embark on a new career in this exciting field and bring my contribution to a team.
+I’m a software developer working in the gaming industry, with a strong focus on AI-driven and data-informed development. I enjoy building reliable, user-focused software, turning ideas into well-crafted features, and collaborating closely with teams to improve products through clean code and practical problem-solving. I’m motivated by continuous learning and enjoy working on projects where AI, creativity, and solid engineering come together.
